@@ -50,4 +50,4 @@ npm run bot
 
 `?timezone remove <city>`
 
-<img src="https://imgur.com/tG0TITq.png">
+<img src="https://imgur.com/tG0TITq.png" width="250">
