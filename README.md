@@ -4,13 +4,14 @@
   <img src="https://imgur.com/0fZwDjm.png" width="250"/>
 </p>
 
-blablablablabla
+A simple discord bot to follow the time and weather of different cities.
 
 ## Table of content
 
 * [Requirements](#requirements)
 * [Getting started](#getting-started)
 * [Commands](#commands)
+* [Author](#author)
 
 ## Requirements
 
@@ -49,8 +50,17 @@ npm run bot
 
 ## Commands
 
+> Note: The default prefix is '?'
+
 * **➕ Add time zone** `?timezone add <city>`
 
 * **➖ Remove time zone** `?timezone remove <city>`
 
 <img src="https://imgur.com/tG0TITq.png" width="200">
+
+
+## Author
+
+[Nathan FAIN](https://github.com/NathanFAIN/)
+[Théo Gimenez](https://github.com/NathanFAIN/)
+
