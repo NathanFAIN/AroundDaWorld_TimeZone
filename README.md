@@ -22,7 +22,7 @@ blablablablabla
 
 First, make sure you have all the required tools installed on your local machine then continue with these steps.
 
-### Installation
+**Installation**
 
 ```bash
 # Clone the repository
@@ -34,9 +34,9 @@ cd discord-bot/
 # Install the dependencies
 npm install
 ```
-### Configuration
+**Configuration**
 
-### Starting the application
+**Starting the application**
 
 ```bash
 npm run bot
