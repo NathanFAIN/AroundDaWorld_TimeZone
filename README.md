@@ -49,12 +49,8 @@ npm run bot
 
 ## Commands
 
-* ➕ Add time zone 
+* **➕ Add time zone** `?timezone add <city>`
 
-`?timezone add <city>`
-
-* ➖ Remove time zone 
-
-`?timezone remove <city>`
+* **➖ Remove time zone** `?timezone remove <city>`
 
 <img src="https://imgur.com/tG0TITq.png" width="200">
