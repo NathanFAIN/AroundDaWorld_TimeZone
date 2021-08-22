@@ -1,8 +1,15 @@
 # AroundDaWorld_TimeZone
 
-<center>
-            <img src="https://imgur.com/0fZwDjm.png" width="250">
-</center>
+<style>
+  div {
+    text-align: center;
+  }
+</style>
+
+<div>
+  <img src="https://imgur.com/0fZwDjm.png" width="250">
+</div>
+
 blablablablabla
 
 ## Table of content
