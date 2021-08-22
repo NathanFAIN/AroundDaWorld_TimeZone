@@ -1,12 +1,6 @@
 # AroundDaWorld_TimeZone
 
-<style>
-  div {
-    text-align: center;
-  }
-</style>
-
-<div>
+<div style="text-align:center">
   <img src="https://imgur.com/0fZwDjm.png" width="250">
 </div>
 
