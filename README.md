@@ -62,5 +62,5 @@ npm run bot
 ## Authors
 
 [Nathan FAIN](https://github.com/NathanFAIN/)
-[Théo Gimenez](https://github.com/NathanFAIN/)
+[Théo GIMENEZ](https://github.com/TheoGimenez)
 
