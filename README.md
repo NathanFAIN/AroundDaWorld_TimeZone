@@ -10,7 +10,7 @@ blablablablabla
 
 * [Requirements](#requirements)
 * [Getting started](#getting-started)
-* [Commands](#common-errors)
+* [Commands](#commands)
 
 ## Requirements
 
