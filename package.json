@@ -1,0 +1,21 @@
+{
+    "name": "around_da_world_tz",
+    "version": "1.0.0",
+    "main": "bot.js",
+    "author": "",
+    "license": "ISC",
+    "nodemonConfig": {
+      "ignore": [
+        "save.json"
+      ]
+    },
+    "dependencies": {
+      "cron": "^1.8.2",
+      "discord.js": "^13.1.0",
+      "nodemon": "^2.0.12"
+    },
+    "scripts": {
+      "bot": "nodemon --inspect index.js"
+    },
+    "description": ""
+  }
