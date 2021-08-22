@@ -38,7 +38,7 @@ npm install
 
 In `index.js` you have to add your :
 - [Discord Bot Token](https://discord.com/developers/applications/) `const token =''`
-- Channel ID `const timezoneChannelId =''` *(right click on the channel -> Copy ID)*
+- Channel ID *(right click on the channel -> Copy ID)* `const timezoneChannelId =''`
 - [Weather API Key](https://home.openweathermap.org/api_keys/) `const weatherApiKey = ''`
 
 **Starting the application**
