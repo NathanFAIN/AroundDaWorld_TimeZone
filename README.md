@@ -38,8 +38,8 @@ npm install
 
 In `index.js` you have to add your :
 - [Discord Bot Token](https://discord.com/developers/applications/) `const token =''`
-- Channel ID *(right click on the channel -> Copy ID)* `const timezoneChannelId =''`
 - [Weather API Key](https://home.openweathermap.org/api_keys/) `const weatherApiKey = ''`
+- Channel ID *(right click on the channel -> Copy ID)* `const timezoneChannelId =''`
 
 **Starting the application**
 
@@ -57,4 +57,4 @@ npm run bot
 
 `?timezone remove <city>`
 
-<img src="https://imgur.com/tG0TITq.png" width="250">
+<img src="https://imgur.com/tG0TITq.png" width="200">
