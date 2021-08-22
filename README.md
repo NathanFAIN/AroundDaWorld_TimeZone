@@ -11,7 +11,7 @@ A simple discord bot to follow the time and weather of different cities.
 * [Requirements](#requirements)
 * [Getting started](#getting-started)
 * [Commands](#commands)
-* [Author](#author)
+* [Authors](#authors)
 
 ## Requirements
 
@@ -59,7 +59,7 @@ npm run bot
 <img src="https://imgur.com/tG0TITq.png" width="200">
 
 
-## Author
+## Authors
 
 [Nathan FAIN](https://github.com/NathanFAIN/)
 [Théo Gimenez](https://github.com/NathanFAIN/)
