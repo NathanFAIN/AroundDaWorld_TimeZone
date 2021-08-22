@@ -29,12 +29,17 @@ First, make sure you have all the required tools installed on your local machine
 git clone https://github.com/NathanFAIN/AroundDaWorld_TimeZone.git
 
 # Enter into the directory
-cd discord-bot/
+cd AroundDaWorld_TimeZone/
 
 # Install the dependencies
 npm install
 ```
 **Configuration**
+
+In `index.js` you have to add your :
+- Discord Bot Token `const token =''`
+- Channel ID `const timezoneChannelId =''`
+- Weather API Key `const weatherApiKey = ''`
 
 **Starting the application**
 
