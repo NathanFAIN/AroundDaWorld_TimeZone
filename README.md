@@ -1,7 +1,8 @@
 # AroundDaWorld_TimeZone
 
-
-<img src="https://imgur.com/0fZwDjm.png" width="250" align="middle">
+<center>
+<img src="https://imgur.com/0fZwDjm.png" width="250">
+</center>
 blablablablabla
 
 ## Table of content
