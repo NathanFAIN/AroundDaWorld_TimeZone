@@ -5,7 +5,7 @@ const fetch = require('node-fetch');
 const fs = require('fs');
 
 //Discord Bot (tips here : https://gist.github.com/koad/316b265a91d933fd1b62dddfcc3ff584)
-const token = '';  //Get your token here : https://discord.com/developers/applications/ {YOUR BOT ID} /bot
+const token = 'ODg1MDgyNzc1ODE5MDE0MTY0.YTh3kQ.a1FjhTxY8sf3ZBaNVkDTeT1ty1E';  //Get your token here : https://discord.com/developers/applications/ {YOUR BOT ID} /bot
 const client = new Discord.Client({ intents: ["GUILDS", "GUILD_MESSAGES"] });
 const timezoneChannelId = ''; //Your channel ID (right click on the channel -> Copy ID)
 
